@@ -2,10 +2,10 @@
 <widget id="app.gentelatinamagazine.com" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>gentelatinamagazine.com</name>
     <description>
-        A blank PhoneGap app.
+        Gente Latina Magazine app.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="support@elevationcreative.net" href="http://elevationcreative.net">
+        Elevation Creative Team
     </author>
     <content src="index.html" />
     <access origin="*" />
